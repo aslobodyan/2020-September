@@ -12,5 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Last command runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Task Description
-There are separate components for each task `./2020-September/src/components/App/App.tsx`.
+## Some comments from me:
+Original task is here: `./2020-September/src/assets/`
+
+I created separate component for each task ( Please see `./2020-September/src/components/App/App.tsx` for details).
