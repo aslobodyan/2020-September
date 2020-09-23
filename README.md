@@ -13,5 +13,4 @@ Last command runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Task Description
-Task Description is in `src/assets/task-description/assignment.pdf`.
-
+There are separate components for each task `./2020-September/src/components/App/App.tsx`.

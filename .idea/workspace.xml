@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a70208e-30a3-412f-8c04-178c2bd16f7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/App/TaskFirst/TaskFirst.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/TaskFourth/StatefulComponent/StatefulComponent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/TaskFourth/TaskFourth.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/TaskSecond/TaskSecond.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/TaskThird/RowRecord/RowRecord.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/TaskThird/RowRecord/RowRecord.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/TaskThird/TaskThird.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/TaskThird/TaskThird.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/App" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
@@ -61,6 +49,7 @@
       <updated>1600704917735</updated>
       <workItem from="1600704919259" duration="39000" />
       <workItem from="1600705017014" duration="26854000" />
+      <workItem from="1600827311555" duration="295000" />
     </task>
     <servers />
   </component>
