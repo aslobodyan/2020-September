@@ -13,6 +13,6 @@ Last command runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Some comments from me:
-Original task is here: `./2020-September/src/assets/`
+Original task is here: [`./src/assets/`](https://github.com/aslobodyan/2020-September/tree/master/src/assets)
 
 I created separate component for each task (Please see [`./src/components/App/App.tsx`](https://github.com/aslobodyan/2020-September/tree/master/src/assets) for details).
